@@ -1,0 +1,9 @@
+*.env
+*.html
+*.json
+/.venv
+/rag_mcp
+/__pycache__/
+/requirements.txt
+*.lock
+*.docx

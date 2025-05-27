@@ -1,0 +1,1 @@
+https://github.com/modelcontextprotocol/python-sdk/issues/396   [MCP Server: Inconsistent Exception Handling in @app.call_tool and Client Undetected Server Termination via Stdio]
